@@ -1,0 +1,85 @@
+
+html li{
+    font-size: normal;
+    font-weight: bold;
+    font-family:Arial;
+    margin: none;
+}
+h1{
+    color:black;
+    font-family:Impact;
+    padding: 20px;
+    font-size: 250%;
+    text-align: left;
+    display: inline-block;
+}
+
+p{
+    font-weight: normal;
+    font-family:Arial;
+   
+}
+h2{
+    text-align: center;
+    
+}
+main{
+    letter-spacing: 1px;
+    word-spacing: 2x;
+    display: inline-flex
+}
+.menu li{
+   background-color:  #4b3621;
+   display: inline-block;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   right: 200px;
+ 
+}
+ul li a{
+    color: white; 
+}
+.whatapp{
+    width: 50px;
+    height: 50px;
+    
+}
+.instagram{
+    width: 50px;
+    height: 50px; 
+}
+.imagen1{
+    width: 500px;
+    height: 500px;
+}
+.imagen2{
+    width: 500px;
+    height: 500px;
+}
+iframe{
+    width: 300px;
+    height: 300px; 
+}
+
+
+img{
+    width: 500px;
+    height: 500px;  
+}
+
+.portada_text{
+    text-align: center;
+    padding-top: 200px;
+    
+}
+
+footer{
+    border-top: black solid 2px;
+    border-bottom: black solid 2px;
+    
+}
+.footers{
+ display: inline-block;   
+}
